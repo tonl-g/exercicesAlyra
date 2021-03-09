@@ -1,0 +1,49 @@
+Into programming
+
+
+1/ Ecouter de la musique en streaming
+- Smartphone
+- Ecouteurs/casques
+- Application
+- Abonnement au service
+- Internet
+- Serveur
+- Bibliothèque musicale
+
+2/  Conseiller client(Banque)
+- Recherche clients dans BDD 
+- Souscriptions de produits ou de services via ordinateur
+- Messagerie mail
+- Intranet entreprise
+- E Learning
+
+3/ Une activité qui serait impossible sans ordinateur serait une activité naviguer sur internet.
+
+4/ - Sublime Text
+- VScode
+- iTerm2
+- Chrome
+- Discord
+- App Store
+
+5/  - Cusinier
+- Jardiner
+- Sculpter
+- Faire de la poterie
+- Dessiner
+- Lire
+- Faire une activité physique (marche, sport etc)
+- Tâches ménagères
+- Garde d'enfant
+- Promener son animal
+
+6/ - Lire un livre physique / A l'avenir, quelqu'un aura l'idée et la matière pour créer un appareil qui reconnaitra les mots et le prononcera pour les non voyants ou les enfants par exemple.
+- Dessiner ou peindre sur un support papier / Seul un humain peut dessiner car il reproduit ce qu'il voit selon son interprétation et la technique. Toutefois, si on insert un programme qui permet à un ordinateur de reproduire à l'identique des images  et des techniques déjà définis comme avec le système de l'imprimante 3D.
+-  Faire du tri sélective de déchets / Un programme dans la benne permettant de détecter la matière et la composition des déchets pour ensuite aider au trie, trier ou détruire.
+- Faire le ménage / Bien que l'idée d'un robot autonome qui passe l'aspirateur à notre place à déjà été inventé, il y aura de plus en plus de robots autonome qui feront le ménage à notre place pour d'autres tâches comme la poussière ou la serpillère.
+
+7/ Je souhaite me former au métier de Développeur Web car aujourd'hui je veux apprendre à coder et connaitre les rouages du métier qui me sont indispensable si je veut être autonome et amener à bien mes projets entrepreneuriaux. De plus, le secteur du Web est dynamique car il propose de nombreuses opportunités dans le marché du travail car de nouveaux métiers émergent, les entreprises passent de plus en plus à la transition au numérique et il y à une très forte demande de profils DEV.
+
+8/ Je ne pense pas qu'un jour les ordinateurs deviendront conscient un jour. D'une part, seulement l'Homme est doté d'une <conscience> sur cette terre. De plus, un ordinateur aura toujours besoin d'un appui humain pour fonctionner que ce soit sa fabrication, l'électricité pour fonctionner, son programme, sa maintenance, son champ d'actions défini au préalable par un humain etc. 
+
+9/ 4 mo
