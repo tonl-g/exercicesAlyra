@@ -1,18 +1,23 @@
-/* Réécrire le programme suivant avec un ou deux ternary operator:
+let tab1 = [
+  [
+    [1, 7, 3],
+    [11, 17, 7],
+    [-3, -5],
+    [5, 13],
+  ],
+  [
+    [2, 4, 6, 8, 10],
+    [1, 3, 5],
+  ],
+  [[0]],
+  [[0], [1], [2], [1]],
+]
 
-let age = 17
-let canVote = false
-if (age >= 18) {
-  canVote = true
-} else {
-  canVote = false
+let sum = 0
+for (let i = 0; i < tab1.length; ++i) {
+  for (let j = 0; j < tab1[i].length; ++j)
+  for (let k = 0; k < tab1[i][j].length; ++k)
+  sum += tab1[i][j][k]
 }
-if (canVote) {
-  console.log('You can vote')
-} else {
-  console.log('You can not vote')
-} */
 
-let age = 25
-let canVote = age >= 18 ? true : false
-console.log(`${canVote ? 'You can vote' : 'You can not vote'}`)
+console.log(`sum = ${sum}`)
